@@ -1,0 +1,2 @@
+# wasserstein_projection_texture_synthesis
+Wasserstein Projection for texture synthesis
